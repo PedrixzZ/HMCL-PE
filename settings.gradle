@@ -7,7 +7,7 @@ dependencyResolutionManagement {
         maven { url 'https://www.jitpack.io' }
     }
 }
-rootProject.name = "Hello Minecraft Launcher Pocket Edition"
+rootProject.name = "Nunex Minecraft Launcher Pocket Edition"
 include ':HMCLPE'
 include ':FilePicker'
 include ':Boat'
